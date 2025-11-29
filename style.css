@@ -303,7 +303,7 @@ h3::after {
 }
 
 .contact p {
-    margin-bottom: 2rem;
+    margin-bottom: 0rem;
     font-size: 1rem;
 }
 
@@ -335,6 +335,13 @@ h3::after {
 .codecademy:hover {
     transform: translateY(-5px);
 }
+
+.experience {
+    margin-top: 3rem;
+}
+
+
+
 
 footer {
     position: relative;
