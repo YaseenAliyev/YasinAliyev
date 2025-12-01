@@ -278,6 +278,7 @@ h3::after {
     cursor: pointer;
     transition: var(--transition);
     margin: 0;
+    
 }
 .clickable-logo:hover {
     transform: scale(1.1);
@@ -289,7 +290,7 @@ h3::after {
     color: var(--color-link);
     vertical-align: top;
     font-size: 18px;
-    width: 350px;
+    width: 350px;   
 }
 
 .video-thumbnails {
